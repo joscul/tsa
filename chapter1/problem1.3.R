@@ -1,6 +1,5 @@
 library(astsa)
 
-
 # (a)
 samples = 100
 extra = 50
